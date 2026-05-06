@@ -21,4 +21,4 @@ A visual tree of your repository so users know where to find raw data, notebooks
 Explicit information on how to recreate your analysis. This should include the Python version and a list of key libraries (like pandas, seaborn, or scikit-learn).
 
 ## Troubleshooting:
-Solutions to common issues or known bugs.--
+Solutions to common issues or known bugs.
