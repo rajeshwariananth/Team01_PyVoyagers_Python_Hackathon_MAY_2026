@@ -1,20 +1,24 @@
-#  Project Title
+###  Project Title
 HUPA-UCM Diabetes Dataset
+
 ## Description
 Glucose monitoring and lifestyle data for individuals with Type 1 Diabetes(T1D) involve the integration of real-time glucose data, blood pressure (BP) monitoring, and lifestyle tracking is crucial for managing daily insulin, nutrition, and exercise decisions.
 
-## Installation Instructions:
-Step-by-step guidance on how to install and set up the project.
+## Data Source & Acquisition: 
+Detailed links to the original datasets, descriptions of the variables, and instructions on how to acquire the data (e.g., via API, scraping, or direct download).
 
-## Usage Examples:
-Code snippets or instructions demonstrating how to use the software.
+## Methodology & Data Workflow: 
+A high-level overview of your process, including data cleaning, transformation, and the specific analysis techniques used (e.g., EDA, statistical testing, or machine learning).
 
-## Configuration & Requirements:
- Documentation of dependencies, API keys, or environment settings required.
-## Contribution Guidelines:
-Instructions for how others can contribute to the project.
-## Licensing & Contact:
-Information on project ownership and how to reach the author.
+##  Project Structure: 
+A visual tree of your repository so users know where to find raw data, notebooks, scripts, and exported visuals.Key Insights & Results: The "so what" of your project. Use this section to showcase your best charts (images/GIFs) and summarize your primary findings and recommendations.
+
+
+## Installation & Setup: 
+ Step-by-step commands to clone the repo, install dependencies (e.g., pip install -r requirements.txt), and run the analysis.
+ 
+ ## Software Environment: 
+Explicit information on how to recreate your analysis. This should include the Python version and a list of key libraries (like pandas, seaborn, or scikit-learn).
 
 ## Troubleshooting:
-Solutions to common issues or known bugs.Badges: Visual indicators for build status, version, or test coverage.
+Solutions to common issues or known bugs.
