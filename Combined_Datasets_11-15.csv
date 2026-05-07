@@ -1,4 +1,4 @@
-time,glucose,calories,heart_rate,steps,basal_rate,bolus_volume_delivered,carb_input,Patient_ID
+time,glucose,calories,heart_rate,steps,basal_rate,bolus_volume_delivered,carb_input,patient_id
 2018-11-07T15:55:00,75.0,11.557850182056429,79.50434782608696,135.0,0.0,0.0,0.0,HUPA0011P
 2018-11-07T16:00:00,76.0,22.284200191497803,95.26548672566372,507.0,0.0,0.0,0.0,HUPA0011P
 2018-11-07T16:05:00,83.66666666666667,12.555649757385254,107.96638655462183,102.0,0.0,0.0,0.0,HUPA0011P
