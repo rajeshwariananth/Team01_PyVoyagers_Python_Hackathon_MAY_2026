@@ -15,10 +15,9 @@ A visual tree of your repository so users know where to find raw data, notebooks
 
 
 ## Installation & Setup: 
- Step-by-step commands to clone the repo, install dependencies (e.g., pip install -r requirements.txt), and run the analysis.
  
  ## Software Environment: 
 Explicit information on how to recreate your analysis. This should include the Python version and a list of key libraries (like pandas, seaborn, or scikit-learn).
 
 ## Troubleshooting:
-Solutions to common issues or known bugs.
+[![Open In Colab](https://google.com)](https://google.com)
