@@ -1,3 +1,7 @@
+panel
 pandas
-plotly
-streamlit
+numpy
+matplotlib
+seaborn
+scipy
+ipywidgets
